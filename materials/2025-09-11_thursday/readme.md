@@ -12,3 +12,4 @@
 - slides (Otto): https://docs.google.com/presentation/d/1-dmiLZyPI3-NUxePHizBJ74QVM5jM9El/edit?usp=sharing&ouid=106990283954699584701&rtpof=true&sd=true
 - materials (Otto): https://github.com/MichaelHMOtto/BERTopic-DDH25
 
+![Lizenz](img/CCLogo.png)

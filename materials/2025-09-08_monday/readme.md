@@ -12,3 +12,5 @@
 
 15:30-17:00: Prepare a dataset (Roman Bleier, Sarah Lang, Martina Scholger)
 - slides: https://docs.google.com/presentation/d/1ksoBjxqhHNiRv1HMqVYIy_x21okkNoftemFZLRupl8s/edit?usp=sharing 
+
+![Lizenz](/images/lizenz.png)
